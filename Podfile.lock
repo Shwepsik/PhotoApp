@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.8.2)
+  - collection-view-layouts/Core (0.1.2)
+  - collection-view-layouts/FlickrLayout (0.1.2):
+    - collection-view-layouts/Core
+  - Kingfisher (5.5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - collection-view-layouts/FlickrLayout
+  - Kingfisher (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - collection-view-layouts
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  collection-view-layouts: f3da16bf3211ecb885bb3e45160c2267edf5b65e
+  Kingfisher: 6fe5e67a90fd335e49b0f5c075ff55ac5ebedd94
+
+PODFILE CHECKSUM: c60b250f51818b5ec85da54a989ece39977b7aca
+
+COCOAPODS: 1.5.3
